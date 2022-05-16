@@ -1,10 +1,12 @@
 <resources>
-   <string name="app_name">Night (Let there be dark)</string>
-   <string name="app_desc">Darkness Sleep Captcha for Sleep As Android (by Urbandroid).
+   <string name="app_name">Let there be night</string>
+   <string name="app_desc">Darkness sensor Sleep Captcha for Sleep As Android (by Urbandroid).
 
-   When going to bed, set an alarm in Urbandroid\'s Sleep app and choose <i>Let there be dark/night</i> as Sleep Captcha.
+   When going to bed, set an alarm in Urbandroid\'s Sleep app and choose <i>Let there be dark/night</i> as Sleep Captcha
+   (after installing this plugin).
    Set a high difficulty, so you have to keep it dark for a long time. The plugin also has extra settings:
    Choose a level of protection against cheating: proximity sensor, finger sensors, moving finger sensors.
+   Choose
    </string>
    <string name="let_there_be_dark_night">Let there be dark/night</string>
 </resources>
