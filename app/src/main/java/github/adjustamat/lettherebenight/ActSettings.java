@@ -1,9 +1,9 @@
 package github.adjustamat.lettherebenight;
 
-import androidx.appcompat.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class ActSettings extends AppCompatActivity
+public class ActSettings extends Activity
 {
    
    @Override
